@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{29A439D2-D759-4073-BF99-C43F67E66359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaN", "LogicaN\LogicaN.csproj", "{82A97D5B-3F03-4415-8604-A174CC367141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{46F72EF7-68FC-4BF5-92BD-E2FA93A63DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A439D2-D759-4073-BF99-C43F67E66359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A439D2-D759-4073-BF99-C43F67E66359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A439D2-D759-4073-BF99-C43F67E66359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A439D2-D759-4073-BF99-C43F67E66359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A97D5B-3F03-4415-8604-A174CC367141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A97D5B-3F03-4415-8604-A174CC367141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A97D5B-3F03-4415-8604-A174CC367141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A97D5B-3F03-4415-8604-A174CC367141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F72EF7-68FC-4BF5-92BD-E2FA93A63DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F72EF7-68FC-4BF5-92BD-E2FA93A63DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F72EF7-68FC-4BF5-92BD-E2FA93A63DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F72EF7-68FC-4BF5-92BD-E2FA93A63DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

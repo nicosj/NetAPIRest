@@ -1,0 +1,12 @@
+C:\Users\Pia\RiderProjects\NetTienda\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Pia\RiderProjects\NetTienda\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Pia\RiderProjects\NetTienda\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\Pia\RiderProjects\NetTienda\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\Pia\RiderProjects\NetTienda\Core\obj\Debug\net5.0\Core.pdb
